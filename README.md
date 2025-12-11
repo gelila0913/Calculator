@@ -1,18 +1,12 @@
-# Scientific Calculator
+# Simple Calculator
 
-A **responsive scientific calculator** built with **HTML, CSS, and JavaScript**. It supports basic arithmetic operations as well as scientific functions such as trigonometry, logarithms, powers, square roots, and percentages.
+A **responsive simple calculator** built with **HTML, CSS, and JavaScript**. It supports basic arithmetic operations.
 
 ---
 
 ## Features
 
 - **Basic operations:** Addition, Subtraction, Multiplication, Division, Decimal points  
-- **Scientific functions:**  
-  - Trigonometric: `sin`, `cos`, `tan` (degrees converted to radians automatically)  
-  - Logarithms: `log` (natural log)  
-  - Powers: `x²` (`Math.pow`)  
-  - Square root: `√` (`Math.sqrt`)  
-  - Percentage: `%` (calculates percent correctly)  
 - **Responsive design:** Works on desktop, tablets, and mobile devices  
 - **Delete & Clear:** `DEL` deletes last digit, `clr` clears the display  
 - **Error handling:** Displays `Error` for invalid inputs  
@@ -20,8 +14,7 @@ A **responsive scientific calculator** built with **HTML, CSS, and JavaScript**.
 ---
 
 ## Demo
-
-*(Add a screenshot or GIF of your calculator here)*
+<img width="506" height="605" alt="image" src="https://github.com/user-attachments/assets/9de5d9c0-f21d-4aa6-857d-6d6557fb380b" />
 
 ---
 
