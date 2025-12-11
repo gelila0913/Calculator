@@ -15,6 +15,14 @@ function append(value){
     }
 }
 
+function appendPercent(){
+    // Convert current display number to percent
+    if(display.innerText !== "0"){
+        display.innerText = "(" + display.innerText + "/100)";
+    }
+}
+
+
 function clearDisplay(){
     display.innerText = "0";
     justCalculated = false;
